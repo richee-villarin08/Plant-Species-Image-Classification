@@ -20,8 +20,7 @@ The dataset contains more than **5,000 plant images**, with at least **250 image
 ## 1. Anthurium
 - **Scientific Name:** *Anthurium andraeanum*
 - **Description:** A tropical ornamental plant known for its glossy leaves and colorful flowers.
-
-![Anthurium](https://drive.google.com/file/d/1znbkLYXClwLm6aLujQkEP7hRtnCBRHDS/view?usp=drive_link)
+- <img width="278" height="280" alt="anthurium" src="https://github.com/user-attachments/assets/84d48e43-7414-4647-a0ac-c4697c307cac" />
 
 ---
 

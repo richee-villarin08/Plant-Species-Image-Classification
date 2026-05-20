@@ -286,6 +286,7 @@ The trained model was exported from Google Teachable Machine in the following fo
 - TensorFlow Lite
 - Web Model
 
+[##ImageDataset](https://drive.google.com/drive/folders/1SGSxJlWoKGafAp_QliqY6Tgj1oEu-0pL?usp=drive_link)
 The exported model files are included in this repository.
 
 ---
@@ -336,5 +337,4 @@ I would improve the model by adding more training images, improving image qualit
 ---
 
 
-[##ImageDataset](https://drive.google.com/drive/folders/1SGSxJlWoKGafAp_QliqY6Tgj1oEu-0pL?usp=drive_link)
 
